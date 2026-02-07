@@ -22,7 +22,7 @@ In order to achieve better results, the following features are calculated from t
 
 
 [Data Analytics.py](<Data Analytics.py>):
-Then to optimize the model and minimize the noise, the data is analyized to identify features that have extreme corrlation correlation. Through the following heatmap, a direct correlation can be identified.
+Then to optimize the model and minimize the noise, the data is analyized to identify features that have extreme correlation. Through the following heatmap, a direct correlation can be identified.
 
 ![Heatmap1.png](https://github.com/Wayne-cyw/Stock-Price-Prediction-Model/blob/main/Heatmap1.png)
 
